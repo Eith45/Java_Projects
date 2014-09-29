@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="4220654803">
+    <data-source source="LOCAL" name="Data Source" product="MySQL" version="5.5.32-0ubuntu0.13.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.26 ( Revision: ${bzr.revision-id} )" uuid="a9ed865f-f711-48bd-98fc-26189cafca4c">
+      <extra-name-characters>#@</extra-name-characters>
+      <identifier-quote-string>`</identifier-quote-string>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/documentarchive</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <schema-pattern>documentarchive.*</schema-pattern>
+      <libraries>
+        <library>
+          <url>jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.26/mysql-connector-java-5.1.26.jar!/</url>
+        </library>
+      </libraries>
+    </data-source>
+  </component>
+</project>
+
